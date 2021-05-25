@@ -34,7 +34,7 @@ terminal2: python client.py
 
 ## Future work:
 Realtime Deployment in cloud architecture using google server and ios app. (Work on Progress)
-one could also do PCA or feature engineering or reduce the model weight/optimize the model using the [Notebook](https://github.com/Newton-Fitness/main/blob/master/newton-fitness-watch.ipynb)
+one could also do PCA or feature engineering or reduce the model weight/optimize the model using the [Notebook](https://github.com/Newton-Fitness/main/blob/master/newton-fitness-watch.ipynb) as starting base.
 
 Enjoy and develop further
 Happy coding :)
