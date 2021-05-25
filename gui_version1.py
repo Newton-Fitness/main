@@ -8,7 +8,6 @@ from collections import Counter
 from datetime import datetime
 import numpy as np
 import PySimpleGUI as sg
-from PIL import Image, ImageTk
 import io
 import os
 import glob

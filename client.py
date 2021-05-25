@@ -1,12 +1,10 @@
 #!/home/simple/anaconda3/envs/StriveSchool/bin/python 
 
-
 import socket
 import pickle
 import time
 import pandas as pd
 import PySimpleGUI as sg
-from PIL import Image, ImageTk
 
 
 sg.theme('Dark Blue 3')    # Keep things interesting for your users
