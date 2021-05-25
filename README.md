@@ -1,6 +1,6 @@
 ## Welcome to Newton Fitness 
 
-![Logo]()
+![Logo](https://github.com/Newton-Fitness/main/blob/master/logo.png)
 
 ### Requirements 
 any Recent OS - Mac, Linux, Windows
@@ -29,7 +29,7 @@ open second terminal and navigate to location
 terminal2: python client.py
 
 ### Screenshot
-![screenshot]()
+![screenshot](https://github.com/Newton-Fitness/main/blob/master/screenshot.png)
 
 
 Enjoy and develop further
